@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.text1 {
+  height: 30px;
+  width: 30%;
+  border: 2px solid black;
+  margin-left: 10%;
+  margin-top: 2%;
+  padding: 3%;
+  border-radius: 15px;
+  font-size: 2.5em;
+}
+.label1 {
+  margin-left: 10%;
+  font-size: 1.6em;
+}
+.button1 {
+  margin-left: 36%;
+  margin-top: 5%;
+  padding: 1%;
+  font-size: 1.6em;
+  border-radius: 15px;
+  background-color: gray;
+  border: 2px solid black;
+}
+.para1 {
+  margin-left: 10%;
+  font-size: 1.6em;
+  margin-top: 3%;
+}
